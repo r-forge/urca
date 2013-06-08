@@ -1,0 +1,11 @@
+Package: urca
+Version: 1.2-8
+Date: 2013-06-05
+Title: Unit root and cointegration tests for time series data
+Authors@R: c(person("Bernhard", "Pfaff", email = "bernhard@pfaffikus.de", role = c("aut", "cre")), person("Matthieu", "Stigler", role = "ctb"))
+Depends: R (>= 2.0.0), methods
+Imports: nlme, graphics, stats
+LazyLoad: yes
+Description: Unit root and cointegration tests encountered in applied 
+ econometric analysis are implemented.
+License: GPL (>=2)
