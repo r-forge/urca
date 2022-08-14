@@ -2,7 +2,7 @@
 \alias{finland}
 \docType{data}
 \encoding{latin1}
-\title{Data set for Finland, Johansen \& Juseliues (1990)}
+\title{Data set for Finland, Johansen and Juseliues (1990)}
 \description{
   This data set contains the series used by S. Johansen and K. Juselius
   for estimating a money demand function of Finland.
