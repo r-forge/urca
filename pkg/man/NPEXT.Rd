@@ -2,10 +2,10 @@
 \docType{data}
 \alias{npext}
 \encoding{latin1}
-\title{Nelson \& Plosser extended data set}
+\title{Nelson and Plosser extended data set}
 \description{
   This data set contains the fourteen U.S. economic time series used by
-  Schotman \& Dijk. All series are transformed by taking logarithms
+  Schotman and Dijk. All series are transformed by taking logarithms
   except for the bond yield. The sample period ends in 1988.
 }
 \usage{data(npext)}
