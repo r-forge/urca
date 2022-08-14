@@ -2,7 +2,7 @@
 \alias{denmark}
 \docType{data}
 \encoding{latin1}
-\title{Data set for Denmark, Johansen \& Juselius (1990)}
+\title{Data set for Denmark, Johansen and Juselius (1990)}
 \description{
   This data set contains the series used by S. Johansen and K. Juselius
   for estimating a money demand function of Denmark.
