@@ -1,9 +1,9 @@
 \name{ur.pp}
 \alias{ur.pp}
 \encoding{latin1}
-\title{Phillips \& Perron Unit Root Test}
+\title{Phillips and Perron Unit Root Test}
 \description{
-  Performs the Phillips \& Perron unit root test. Beside the Z
+  Performs the Phillips and Perron unit root test. Beside the Z
   statistics Z-alpha and Z-tau, the Z statistics for the deterministic
   part of the test regression are computed, too.
 }
@@ -19,7 +19,7 @@ ur.pp(x, type = c("Z-alpha", "Z-tau"), model = c("constant", "trend"),
   \item{use.lag}{Use of a different lag number, specified by the user.}
 }
 \details{
-  The function \code{ur.pp()} computes the Phillips \& Perron test. For
+  The function \code{ur.pp()} computes the Phillips and Perron test. For
   correction of the error term a Bartlett window is used. 
 }
 \value{
