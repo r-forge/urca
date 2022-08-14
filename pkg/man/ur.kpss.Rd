@@ -18,12 +18,13 @@ ur.kpss(y, type = c("mu", "tau"), lags = c("short", "long", "nil"),
   \item{use.lag}{User specified number of lags.}
 }
 \details{
-  \code{lags="short"} sets the number of lags to \eqn{\root 4 \of {4
-      \times (n/100)}},
-  whereas \code{lags="long"} sets the number of lags to \eqn{\root 4 \of
-    {12 \times (n/100)}}. If \code{lags="nil"} is choosen, then no error
-  correction is made. Furthermore, one can specify a different number of
-  maximum lags by setting \code{use.lag} accordingly.
+  \code{lags="short"} sets the number of lags to
+  \eqn{\sqrt[4]{4 \times (n/100)}}, whereas
+  \code{lags="long"} sets the number of lags to
+  \eqn{\sqrt[4]{12 \times (n/100)}}. If \code{lags="nil"} is choosen,
+  then no error correction is made. Furthermore, one can specify a
+  different number of maximum lags by setting \code{use.lag}
+  accordingly.
 }
 \value{
   An object of class \code{ur.kpss}.
