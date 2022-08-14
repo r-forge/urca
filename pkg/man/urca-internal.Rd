@@ -1,10 +1,10 @@
 \name{urca-internal}
 \alias{.spcv}
 \encoding{latin1}
-\title{Critical values for Schmidt \& Phillips Unit Root Test}
+\title{Critical values for Schmidt and Phillips Unit Root Test}
 \description{
   This function is an internal function and is called by
-  \code{ur.sp}. It computes the critical value of the Schmidt \&
+  \code{ur.sp}. It computes the critical value of the Schmidt and
   Phillips test, given a level of significance, the polynomial degree of
   the test regression, the test type and the sample size.
 }
