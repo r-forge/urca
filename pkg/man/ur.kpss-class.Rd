@@ -5,7 +5,7 @@
 \title{Representation of class ur.kpss}
 \description{
   This class contains the relevant information by applying the
-  Kwiatkowski, Phillips, Schmidt \& Shin unit root test to a time series.
+  Kwiatkowski, Phillips, Schmidt and Shin unit root test to a time series.
 }
 \section{Slots}{
   \describe{
