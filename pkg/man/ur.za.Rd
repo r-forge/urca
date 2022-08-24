@@ -29,7 +29,7 @@ ur.za(y, model = c("intercept", "trend", "both"), lag=NULL)
   \emph{Journal of Business and Economic Statistics}, \bold{10(3)},
   251--270.
 
-  Download possible at: \url{http://cowles.econ.yale.edu/}, see rubric
+  Download possible at: \url{http://cowles.yale.edu/}, see rubric
   'Discussion Papers (CFDPs)'.
 }
 \seealso{\code{\link{ur.za-class}}}

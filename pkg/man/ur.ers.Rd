@@ -41,7 +41,6 @@ ur.ers(y, type = c("DF-GLS", "P-test"), model = c("constant", "trend"),
   \emph{Long-Run Economic Relationships}, eds. R.F. Engle and
   C.W.J. Granger, London, Oxford, 267--276.
 
-  Download possible at: \url{http://www.econ.ucsd.edu/papers/files/90-4.pdf}.
 }
 
 \seealso{\code{\link{ur.ers-class}}}

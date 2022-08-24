@@ -54,7 +54,7 @@
   the Unit-Root Hypothesis using Mixtures of Elliptical Models,
   \emph{Journal of Business and Economic Statistics}, \bold{12}, 95--107. 
 }
-\references{\url{http://www.amstat.org/publications/jbes/}}
+\references{\url{https://www.amstat.org/publications/jbes/}}
 \author{Bernhard Pfaff}
 \keyword{datasets}
 \concept{data set Nelson Plosser macroeconomic variables}

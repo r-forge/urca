@@ -47,7 +47,7 @@ Class \code{urca}, directly.
   a Unit Root: How Sure Are We That Economic Time Series Have a Unit
   Root?, \emph{Journal of Econometrics}, \bold{54}, 159--178.
 
-  Download possible at: \url{http://cowles.econ.yale.edu/}, see rubric
+  Download possible at: \url{http://cowles.yale.edu/}, see rubric
   'Discussion Papers (CFDPs)'.
 }
 \seealso{

@@ -27,7 +27,7 @@
   
 }
 \references{
-  \url{http://www.math.ku.dk/~sjo/}
+  \url{http://web.math.ku.dk/~sjo/}
 }
 \author{Bernhard Pfaff}
 \keyword{datasets}

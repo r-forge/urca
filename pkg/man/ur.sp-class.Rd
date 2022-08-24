@@ -50,7 +50,7 @@ Class \code{urca}, directly.
   the Presence of Deterministic Trends, \emph{Oxford Bulletin of Economics and
   Statistics}, \bold{54(3)}, 257--287.
 
-  Download possible at: \url{http://cowles.econ.yale.edu/}, see rubric
+  Download possible at: \url{http://cowles.yale.edu/}, see rubric
   'Discussion Papers (CFDPs)'.
 }
 \seealso{
