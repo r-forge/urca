@@ -56,7 +56,7 @@ Class \code{urca}, directly.
   \emph{Long-Run Economic Relationships}, eds. R.F. Engle and
   C.W.J. Granger, London, Oxford, 267--276.
   
-  Download possible at: \url{http://cowles.yale.edu/}, see rubric
+  Download possible at: \url{https://cowles.yale.edu/}, see rubric
   'Discussion Papers (CFDPs)'.
 }
 \seealso{

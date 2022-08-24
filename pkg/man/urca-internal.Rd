@@ -25,7 +25,7 @@
   the Presence of Deterministic Trends, \emph{Oxford Bulletin of Economics and
   Statistics}, \bold{54(3)}, 257--287.
 
-  Download possible at: \url{http://cowles.yale.edu/}, see rubric
+  Download possible at: \url{https://cowles.yale.edu/}, see rubric
   'Discussion Papers (CFDPs)'.
 }
 \seealso{\code{\link{ur.sp}}.}

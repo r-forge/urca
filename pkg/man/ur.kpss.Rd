@@ -35,7 +35,7 @@ ur.kpss(y, type = c("mu", "tau"), lags = c("short", "long", "nil"),
   a Unit Root: How Sure Are We That Economic Time Series Have a Unit
   Root?, \emph{Journal of Econometrics}, \bold{54}, 159--178.
 
-  Download possible at: \url{http://cowles.yale.edu/}, see rubric
+  Download possible at: \url{https://cowles.yale.edu/}, see rubric
   'Discussion Papers (CFDPs)'.
 }
 \seealso{\code{\link{ur.kpss-class}}}
