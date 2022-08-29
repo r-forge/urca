@@ -1,9 +1,9 @@
 \name{ur.sp}
 \alias{ur.sp}
 \encoding{latin1}
-\title{Schmidt \& Phillips Unit Root Test}
+\title{Schmidt and Phillips Unit Root Test}
 \description{
-  Performs the Schmidt \& Phillips unit root test, where under the Null
+  Performs the Schmidt and Phillips unit root test, where under the Null
   and Alternative Hypothesis the coefficients of the deterministic
   variables are included.
 }
