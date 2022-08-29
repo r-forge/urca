@@ -5,7 +5,7 @@
 \title{Representation of class ur.pp}
 \description{
   This class contains the relevant information by applying the Phillips
-  \& Perron unit root test to a time series.
+  and Perron unit root test to a time series.
 }
 \section{Slots}{
   \describe{
