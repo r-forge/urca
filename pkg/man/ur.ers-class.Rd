@@ -4,7 +4,7 @@
 \title{Representation of class ur.ers}
 \description{
   This class contains the relevant information by applying the Elliott,
-  Rothenberg \& Stock unit root test.
+  Rothenberg and Stock unit root test.
 }
 \section{Slots}{
   \describe{
