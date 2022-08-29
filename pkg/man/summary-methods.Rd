@@ -50,7 +50,7 @@
       well as the summary output of the test regression for the Schmidt
       and Phillips test is returned.}
     \item{object = "ur.za"}{The test statistic, the critical values as
-      well as the summary output of the test regression for the Zivot \&
+      well as the summary output of the test regression for the Zivot and
       Andrews test is returned.}
 }}
 \seealso{
