@@ -26,7 +26,7 @@
     \item{\code{testreg}:}{Object of class \code{"ANY"}: The test
       regression, only set for \code{"DF-GLS"}.}
     \item{\code{test.name}:}{Object of class \code{"character"}: The
-      name of the test, \emph{i.e.} `Elliott, Rothenberg \& Stock'.}
+      name of the test, \emph{i.e.} `Elliott, Rothenberg and Stock'.}
   }
 }
 \section{Extends}{
