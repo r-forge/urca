@@ -5,8 +5,9 @@
 \description{
   This function returns the OLS regressions of a restricted VECM,
   \emph{i.e.} it returns a list object with elements of class `lm'
-  containing the restricted VECM and a matrix object with the normalised
-  cointegrating relationships. The user can provide a certain number of
+  containing the restricted VECM, a matrix object with the normalised
+  cointegrating relationships and a list object with the normalised
+  cointegration matrix statistics. The user can provide a certain number of
   which equation in the VECM should be estimated and reported, or if
   \code{"reg.number = NULL"} each equation in the VECM will be estimated
   and its results are reported. Furthermore, the cointegratioon rank has
@@ -28,8 +29,9 @@ cajorls(z, r = 1, reg.number = NULL)
 }
 \value{
   Returns a list object with elements of class \code{lm} for the
-  restricted VECM and a matrix object with the normalised cointegrating
-  vectors. 
+  restricted VECM, a matrix object with the normalised cointegrating
+  vectors and a list object with the normalised cointegration matrix
+  statistics.
 }
 \references{
 
@@ -38,6 +40,9 @@ cajorls(z, r = 1, reg.number = NULL)
 
   Lütkepohl, H. (2006), \emph{New Introduction to Multiple Time Series
     Analysis}, Springer, New York.
+	
+  Lütkepohl, H. and Krätzig, M. (2004), \emph{Applied Time Series
+    Econometrics}, Cambridge University press, New York.
 
 }
 \seealso{
@@ -52,6 +57,7 @@ spec = "longrun", season = 4)
 sjf.vecm.rls <- cajorls(sjf.vecm, r = 2)
 summary(sjf.vecm.rls$rlm)
 sjf.vecm.rls$beta
+sjf.vecm.rls$beta.stats
 }
 \author{Bernhard Pfaff}
 \keyword{regression}

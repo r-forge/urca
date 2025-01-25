@@ -20,5 +20,5 @@ exportMethods("show", "plot", "summary")
 importFrom("graphics", "abline", "layout", "legend", "lines", "mtext",
            "par", "plot")
 importFrom("stats", "AIC", "acf", "anova", "BIC", "coef", "embed", "formula",
-           "lm", "na.omit", "pacf", "pchisq", "plot.ts", "resid", "residuals")
+           "lm", "na.omit", "pacf", "pchisq", "plot.ts", "resid", "residuals", "pt")
 
